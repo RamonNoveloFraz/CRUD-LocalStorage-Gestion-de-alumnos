@@ -1,0 +1,81 @@
+.fas{
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 1.5s;
+}
+.fa-pen-fancy:hover{
+    color: #1e90ff ;
+}
+.fa-trash-alt:hover{
+    color: #ff0000;
+}
+
+.table-head{
+    background-color: #fff;
+}
+
+.filas-en-edicion{
+    background-color: rgba(44, 223, 255, 0.493);
+}
+
+.my-4{
+    color: blue;
+    text-align: center;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p.centrado {
+    text-align: center;
+}
+
+.mb-3{
+    display: block;
+    text-align: center;
+}
+
+.mb-3 input{
+    width: 10em;
+    height: 2em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+.mb-3 label{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.btn{
+    width: 8em;
+    height: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #00438D;
+    border: 2px solid white;
+    text-align: center;
+}
+.my-3{
+     text-align: center;
+     
+}
+
+.table-head{
+        border: 1px solid #D5D9D9;
+        width: 100px;
+        height: 25px;
+        color: white;
+        background-color: #00438D;
+        text-align: center;    
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    text-align: center;
+}
